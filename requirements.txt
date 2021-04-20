@@ -69,7 +69,7 @@ pika==1.0.1
 pluggy==0.12.0
 prompt-toolkit==2.0.9
 protobuf==3.8.0
-py==1.8.0
+py==1.10.0
 pycodestyle==2.5.0
 pycparser==2.19
 pydot==1.4.1
